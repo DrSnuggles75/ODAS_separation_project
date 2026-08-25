@@ -1,0 +1,21 @@
+# CLAP model — download separately (see README), do not commit (~2 GB)
+scripts_and_other/host/models/
+models/
+
+# Python envs / caches
+*.venv*/
+.venv*/
+__pycache__/
+*.pyc
+
+# ROS build artifacts (in case the package is built in place)
+build/
+install/
+log/
+
+# Recorded data lives in cloud storage (see data/README.md). Track only the data
+# docs (top-level *.md) and the "Experiment setup" notes; ignore the heavy capture
+# subdirectories.
+data/*
+!data/*.md
+!data/Experiment setup/

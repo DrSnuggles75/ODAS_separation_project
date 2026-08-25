@@ -1,0 +1,54 @@
+fine_label,coarse_label
+speech,human voice
+man speaking,human voice
+woman speaking,human voice
+shouting,human voice
+screaming,human voice
+laughing,human voice
+crying,human voice
+baby crying,human voice
+crowd noise,human voice
+footsteps,human movement or gesture
+running footsteps,human movement or gesture
+clapping,human movement or gesture
+coughing,human movement or gesture
+whistling,human movement or gesture
+dog barking,animal
+cat meowing,animal
+birds chirping,animal
+insects buzzing,animal
+pig oinking,animal
+rain,nature or weather
+heavy rain,nature or weather
+thunder,nature or weather
+wind,nature or weather
+fire crackling,nature or weather
+water running,nature or weather
+car passing,vehicle or transport
+car horn,vehicle or transport
+motorcycle passing,vehicle or transport
+train passing,vehicle or transport
+airplane flying,vehicle or transport
+helicopter flying,vehicle or transport
+traffic noise,vehicle or transport
+siren,alarm or alert
+fire alarm,alarm or alert
+alarm clock,alarm or alert
+doorbell,alarm or alert
+electronic beep,alarm or alert
+fireworks,alarm or alert
+explosion,alarm or alert
+door knocking,indoor or domestic
+door opening or closing,indoor or domestic
+keyboard typing,indoor or domestic
+phone ringing,indoor or domestic
+glass breaking,indoor or domestic
+vacuum cleaner,indoor or domestic
+washing machine,indoor or domestic
+fan or air conditioner,indoor or domestic
+music,indoor or domestic
+television audio,indoor or domestic
+drilling,tools or machinery
+hammering,tools or machinery
+sawing,tools or machinery
+machinery running,tools or machinery

@@ -1,0 +1,8 @@
+# Host-side analysis dependencies (classify_capture.py, sound_similarity.py).
+# The recording side (capture_experiment.sh) needs only docker + a running devcontainer.
+numpy
+scipy
+soundfile
+transformers
+torch
+matplotlib

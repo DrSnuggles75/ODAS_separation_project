@@ -1,0 +1,53 @@
+speech
+man speaking
+woman speaking
+shouting
+screaming
+laughing
+crying
+baby crying
+crowd noise
+footsteps
+running footsteps
+clapping
+coughing
+whistling
+dog barking
+cat meowing
+birds chirping
+insects buzzing
+pig oinking
+rain
+heavy rain
+thunder
+wind
+fire crackling
+water running
+car passing
+car horn
+motorcycle passing
+train passing
+airplane flying
+helicopter flying
+traffic noise
+siren
+fire alarm
+alarm clock
+doorbell
+electronic beep
+fireworks
+explosion
+door knocking
+door opening or closing
+keyboard typing
+phone ringing
+glass breaking
+vacuum cleaner
+washing machine
+fan or air conditioner
+music
+television audio
+drilling
+hammering
+sawing
+machinery running
