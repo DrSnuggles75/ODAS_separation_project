@@ -147,8 +147,7 @@ the nearest one.)
 ## Key findings (what actually moves separation)
 
 - **Level balance is the biggest lever.** Neither source should dominate; a loud source cleans
-  its own slot but degrades and bleeds into the quiet one. Tracking is not the bottleneck — SST
-  is ~100% stable.
+  its own slot but degrades and bleeds into the quiet one.
 - **Keep sources at mic height.** The UMA is a planar array; off-plane (elevated) sources
   separate poorly. The penalty is direction-symmetric (mic-above ≈ sources-above) and depends on
   the *magnitude* of the off-plane angle. `/sst` elevation is biased/ambiguous on a planar array
